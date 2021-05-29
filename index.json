@@ -1,7 +1,7 @@
 {
     "type":"SoC",
-    "name":"MT7621A",
-    "title": "MediaTek MT7621A SoC",
+    "name":"MT7621",
+    "title": "MediaTek MT7621 SoC",
     "description":"MediaTek dual-core MIPS SoC",
     "Core": {
         "type":"1004KEc",
@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/SoCXin/MT7621A.git"
+        "url": "https://github.com/SoCXin/MT7621.git"
     },
     "version":"1.0.0",
     "series":["MT7621Z","MT7621V","MT7621R","MT7621C","MT7621T"],
